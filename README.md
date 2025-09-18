@@ -97,11 +97,11 @@ AI & Simulation: Serves as a formal grammar for reasoning, predictive modelling,
 
 This repository contains the complete specification for the Table Tennis Notation System (TTNS). It is intended as a living document for players, coaches, and researchers.
 
-##🔗 License
+License
 
 This work is openly shared under the permissive MIT License, which encourages both academic and commercial use with appropriate attribution.
 
-##📜 Citation
+📜 Citation
 
 If you use this framework in your research or project, please use the following citation format:
 > *Ji, X. (2025). Spin, Speed. Strategy – A Mathematic Guide to Table Tennis. Manuscript submitted for publication.*
