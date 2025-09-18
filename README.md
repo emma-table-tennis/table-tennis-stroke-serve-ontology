@@ -84,7 +84,7 @@ An operator that quantifies the tactical disruption or change between two consec
 *   Timing (δt)
 *   Rhythm (δr)
 
-##🚀 Applications
+## 🚀 Applications
 
 This ontology is designed as a foundational tool for:
 
@@ -93,15 +93,15 @@ Players: Enables structured self-analysis and precise goal setting by offering a
 Analysts & Scouts: Offers a standardised data ontology for match analysis, performance benchmarking and cross-context player comparison.
 AI & Simulation: Serves as a formal grammar for reasoning, predictive modelling, and the development of intelligent training systems and synthetic opponents.
 
-📖 How to Use This Repository
+## 📖 How to Use This Repository
 
 This repository contains the complete specification for the Table Tennis Notation System (TTNS). It is intended as a living document for players, coaches, and researchers.
 
-License
+## 🔗License
 
 This work is openly shared under the permissive MIT License, which encourages both academic and commercial use with appropriate attribution.
 
-📜 Citation
+## 📜 Citation
 
 If you use this framework in your research or project, please use the following citation format:
 > *Ji, X. (2025). Spin, Speed. Strategy – A Mathematic Guide to Table Tennis. Manuscript submitted for publication.*
