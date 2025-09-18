@@ -104,4 +104,4 @@ This work is openly shared under the permissive MIT License, which encourages bo
 ## 📜 Citation
 
 If you use this framework in your research or project, please use the following citation format:
-> *Ji, X. (2025). Spin, Speed. Strategy – A Mathematic Guide to Table Tennis. Manuscript submitted for publication.*
+> *Ji, X. (2025). Spin, Speed, Strategy – A Mathematic Guide to Table Tennis. Manuscript submitted for publication.*
